@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fragment_NavDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="switch_compact">Switch</string>
+    <string name="item_download_only">Downloaded only</string>
+    <string name="hello_blank_fragment">hello fragment</string>
+    <string name="quit">Do u Want to Quit ?</string>
+    <string name="really_quit">Really ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">Nope</string>
+    <string name="alert_connection_lost">Device unable to reach host check your Connection.</string>
+    <string name="alert_title_connection_lost">Connection Problem</string>
+</resources>
